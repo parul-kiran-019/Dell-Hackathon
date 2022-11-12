@@ -1,0 +1,8 @@
+<input type="email" id="email" name="email">
+<input type="submit" value="Submit" id="submit">
+<input type="text" id="fname" name="fname">
+<input type="text" id="lname" name="lname">
+<input type="image" id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/1200px-Dell_logo_2016.svg.png" alt="Submit" width="48" height="48">
+<input type="color" id="favcolor" name="favcolor">
+<input type="date" id="birthday" name="birthday">
+<input type="file" id="myfile" name="myfile">

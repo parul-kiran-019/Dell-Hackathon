@@ -1,0 +1,16 @@
+<input type="text" id="fname" name="fname">
+<input type="text" id="lname" name="lname">
+<input id="img" type="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/1200px-Dell_logo_2016.svg.png" alt="Submit" width="48" height="48">
+<input type="range" id="a" name="a" value="50">
+<input type="number" id="b" name="b" value="50">
+<input list="browsers" name="browser"><datalist id="browsers">
+<input type="radio" id="html" name="fav_language" value="HTML">
+<input type="radio" id="css" name="fav_language" value="CSS">
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+<input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+<input type="text" id="username" name="username">
+<input type="password" id="pwd" name="pwd">
+<input type="submit" value="Submit" id="submit">
+<input type="reset" id="reset">

@@ -1,0 +1,9 @@
+<button id="btn1" class="btn">
+<button id="btn2" class="btn">
+<button id="btn3" class="btn">
+<button id="btn4" class="btn">
+<button id="btn5" class="btn">
+<input type="week" id="week" name="week">
+<input type="month" id="bdaymonth" name="bdaymonth">
+<input id="txt1" type="text" placeholder="Search..">
+<input type="time" id="appt" name="appt">

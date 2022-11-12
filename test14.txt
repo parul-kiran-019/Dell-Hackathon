@@ -1,0 +1,11 @@
+<input type="text" id="fname" name="firstname" placeholder="Enter Your name">
+<input type="text" id="lname" name="lastname" placeholder="Enter Your last name">
+<input type="text" id="ename" name="email" placeholder="Enter Your Email here">
+<input type="text" id="mobno" name="mobno" placeholder="Enter Your Contact Number">
+<textarea id="subject" name="subject" placeholder="Give your feedback"style="height:50px">
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+<input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+<input type="date" id="birthday" name="birthday">
+<select name="cars" id="cars">
+<button type="button" id="btn1">

@@ -1,0 +1,6 @@
+<img id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dell_Logo.png/1200px-Dell_Logo.png" height=20px>
+<input type="text" id="txt" placeholder="Enter Username" name="username" required>
+<input type="password" id="pwd" placeholder="Enter Password" name="password" required>
+<input type="checkbox" checked="checked"id="chk">
+<button type="button" class="cancelbtn" id="btn">
+<a href="#" id="link">

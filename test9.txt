@@ -1,0 +1,7 @@
+<input type="week" id="week" name="week">
+<input type="color" id="favcolor" name="favcolor" value="#ff0000">
+<input type="password" id="pwd" name="pwd">
+<input type="email" id="email" name="email">
+<input type="file" id="myfile" name="myfile">
+<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+<input type="url" id="homepage" name="homepage">

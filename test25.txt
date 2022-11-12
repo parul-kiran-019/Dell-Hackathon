@@ -1,0 +1,10 @@
+<input type="date" id="birthday" name="birthday">
+<input type="submit" value="Submit" id="btn1">
+<input type="search" id="site-search" name="q">
+<button id="btn2">
+<input type="text" id="fname" name="fname">
+<input type="submit" value="Submit" id="btn3">
+<input type="url" id="homepage" name="homepage">
+<input type="week" id="week" name="week">
+<input type="month" id="bdaymonth" name="bdaymonth">
+<input type="email" id="email" name="email">

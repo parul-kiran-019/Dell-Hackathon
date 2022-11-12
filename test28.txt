@@ -1,0 +1,8 @@
+<input type="text" id="fname" name="firstname" placeholder="Enter Your name">
+<input type="text" id="lname" name="lastname" placeholder="Enter Your last name">
+<input type="text" id="ename" name="email" placeholder="Enter Your Email here">
+<input type="text" id="mobno" name="mobno" placeholder="Enter Your Contact Number">
+<textarea id="subject" name="subject" placeholder="Give your feedback"style="height:50px">
+<img id="img" src="https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=555&qlt=100,1&resMode=sharp2&size=555,402&chrss=full" alt="Trulli" style="width:30%">
+<progress id="file" value="32" max="100">
+<input type="submit" value="Send" id="btn">

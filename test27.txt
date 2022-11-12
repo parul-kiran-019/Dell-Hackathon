@@ -1,0 +1,12 @@
+<input type="text" id="fname" name="firstname" placeholder="Enter Your name">
+<input type="text" id="lname" name="lastname" placeholder="Enter Your last name">
+<input type="text" id="ename" name="email" placeholder="Enter Your Email here">
+<input type="text" id="mobno" name="mobno" placeholder="Enter Your Contact Number">
+<textarea id="subject" name="subject" placeholder="Give your feedback"style="height:50px">
+<input type="radio" id="html" name="fav_language" value="HTML">
+<input type="radio" id="css" name="fav_language" value="CSS">
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<input type="radio" id="css" name="fav_language" value="CSS">
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<input type="date" id="birthday" name="birthday">
+<input type="submit" value="Send" id="btn">

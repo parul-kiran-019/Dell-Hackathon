@@ -1,0 +1,6 @@
+<input type="color" id="favcolor" name="favcolor" value="#ff0000">
+<input type="time" id="appt" name="appt">
+<input type="month" id="bdaymonth" name="bdaymonth">
+<input type="week" id="week" name="week">
+<input type="date" id="birthday" name="birthday">
+<input type="search" id="gsearch" name="gsearch">

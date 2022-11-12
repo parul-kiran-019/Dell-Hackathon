@@ -1,0 +1,4 @@
+<select name="mosnter" id="monster">
+<input type="submit" value="Submit" id="btn1">
+<input type="color" id="head" name="head" value="#e66465">
+<input type="color" id="body" name="body" value="#f6b73c">

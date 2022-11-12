@@ -1,0 +1,13 @@
+<input type="text" id="fname" name="fname">
+<input type="submit" value="Submit" id="btn1">
+<input type="text" id="lname" name="lname" form="form1">
+<input type="text" id="fname" name="fname">
+<input type="text" id="lname" name="lname">
+<input type="submit" value="Submit" id="submit">
+<input type="submit" formaction="/action_page2.php" value="Submit as Admin" id="asubmit">
+<input type="radio" id="html" name="fav_language" value="HTML">
+<input type="radio" id="css" name="fav_language" value="CSS">
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+<input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+<input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
