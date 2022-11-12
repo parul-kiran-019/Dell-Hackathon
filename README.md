@@ -8,3 +8,8 @@ Team members are as follows:
 (3) Sakshi Saha  
 (4) Ishita Sinha  
 (5) Sanjana Bhattacharjee
+
+
+This repo has 2 additional  branches:
+dataset : contains the traing datasets for T5 model
+training-output : contains the training output for T5 model
