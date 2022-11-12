@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+</head>
+<body>
+<h3>!!!</h3>
+<h2>Icon Buttons</h2>
+<p>Icon buttons:</p>
+<button id="btn1" class="btn"><i class="fa fa-home"></i></button>
+<button id="btn2" class="btn"><i class="fa fa-bars"></i></button>
+<button id="btn3" class="btn"><i class="fa fa-trash"></i></button>
+<button id="btn4" class="btn"><i class="fa fa-close"></i></button>
+<button id="btn5" class="btn"><i class="fa fa-folder"></i></button>
+<output name="button"> button</output>
+
+<p>Icon buttons with text:</p>
+<button id="btn6" class="btn"><i class="fa fa-home"></i> Home</button>
+<button id="btn7" class="btn"><i class="fa fa-bars"></i> Menu</button>
+<button id="btn8" class="btn"><i class="fa fa-trash"></i> Trash</button>
+<button id="btn9" class="btn"><i class="fa fa-close"></i> Close</button>
+<button id="btn10" class="btn"><i class="fa fa-folder"></i> Folder</button>
+<output name="button"> button</output>
+
+<div class="container">
+<br>
+<form>
+<label for="fname">First Name</label>
+<input type="text" id="fname" name="firstname" placeholder="Enter Your name">
+<output name="textbox"> textbox</output><br>
+<label for="lname">Last Name</label>
+<input type="text" id="lname" name="lastname" placeholder="Enter Your last name">
+<output name="textbox"> textbox</output> <br>
+<label for="ename">Email</label>
+<input type="email" id="ename" name="email" placeholder="Enter Your Email here">
+<output name="email"> email</output> <br>
+<label for="mobno">Contact No</label>
+<input type="text" id="mobno" name="mobno" placeholder="Enter Your Contact Number">
+<output name="textbox"> textbox</output> <br>
+<label for="birthday">Birthday:</label>
+<input type="date" id="birthday" name="birthday">
+<output name="date"> date</output><br>
+<div class="slidecontainer">
+<input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+<output name="range"> range</output>
+</div>
+<label for="favcolor">Select your favorite color:</label>
+<input type="color" id="favcolor" name="favcolor" value="#ff0000">
+<output name="color"> color</output><br>
+<button type="button" id="btn">Click Me!</button>
+<output name="button"> button</output>
+</form>
+</div>
+</body>
+</html>

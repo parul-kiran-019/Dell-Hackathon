@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>File upload</h1>
+
+<p>Show a file-select field which allows a file to be chosen for upload:</p>
+<form action="/action_page.php">
+  <label for="myfile">Select a file:</label>
+  <input type="file" id="myfile" name="myfile"><output name="file"> file</output><br><br>
+  <input type="submit" value="Submit" id="btn1"><output name="submit"> submit</output><br><br>
+</form>
+
+<form action="/action_page.php">
+  <textarea name="message" rows="10" cols="30" id="txtar">The cat was playing in the garden.</textarea><output name="textarea"> textarea</output><br><br>
+  <br><br>
+  <input type="submit" id="btn2"><output name="submit"> submit</output><br><br>
+</form>
+
+<button type="button" onclick="alert('Hello World!')" id="btn3">Click Me!</button><output name="button"> button</output><br><br>
+
+<form action="/action_page.php">
+  <input list="browsers" name="browser" id="list">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist><output name="datalist"> datalist</output><br><br>
+  <input type="submit"><output name="submit"> submit</output><br><br>
+</form>
+
+
+<form action="/action_page.php"
+oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+  0
+  <input type="range" id="a" name="a" value="50"><output name="range"> range</output><br><br>
+  100 +
+  <input type="number" id="b" name="b" value="50"><output name="number"> number</output><br><br>
+  =
+  <output name="x" for="a b"></output>
+  <br><br>
+  <input type="submit" id="btn4"><output name="submit"> submit</output><br><br>
+</form>
+
+
+</body>
+</html>
+
